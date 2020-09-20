@@ -18,7 +18,7 @@ Implemente a parte que não muda de uma classe e deixe as outras partes para a i
 
 # **Structure**
 
-
+[Imagem com a estrutura](https://github.com/LucasHOliveira/Trabalho-TemplateMethod/blob/master/ImagemEstrutura/Estrutura.png)
 
 # **Participants**
 
