@@ -28,4 +28,4 @@ RA: 1811511908
 
 # **Sample Code**
 
-[Link para a pasta do código](https://github.com/LucasHOliveira/Trabalho-TemplateMethod/tree/master/ProjetoTM-C%C3%B3digo/.metadata)
+[Link para a pasta do código](https://github.com/LucasHOliveira/Trabalho-TemplateMethod/tree/master/ProjetoTM-Codigo)
